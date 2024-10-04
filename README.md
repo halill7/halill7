@@ -63,12 +63,6 @@
   <br/>
   <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halill7&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&count_private=true" alt="top langs" />
   
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Total%20Contributions-{{TOTAL}}-brightgreen" alt="total contributions" />
-  <img src="https://img.shields.io/badge/Public%20Repos-{{REPOS}}-blue" alt="public repos" />
-  
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css" alt="Skills" />
 </div>
 
 
