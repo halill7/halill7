@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=halill7.halill7" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Duran+Halil!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Halil+Duran!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Belgium 🇧🇪</h3>
@@ -10,13 +10,10 @@
 
 <div align="center">
  
- 🔭 
- 
- 🌱 
+💻 Specialized in TypeScript and C#
+🚀 Over 3 years of experience in full-stack development
+✨Avid learner and technology enthusiast
 
-💬 
-
-⚡ 
 
  </div>
  
@@ -27,7 +24,7 @@
   <a href="https://www.linkedin.com/in/duranhalil73/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="halil-portfolio.vercel.app" target="_blank">
+  <a href="https://github.com/halill7/portfolio" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
