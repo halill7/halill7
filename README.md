@@ -10,7 +10,7 @@
 
 <div align="center">
  
-💻 Specialized in TypeScript and C# <br>
+💻 Specialized in TypeScript, C# and PHP <br>
 🚀 Over 3 years of experience in full-stack development <br>
 ✨Avid learner and technology enthusiast
 
