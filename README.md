@@ -11,7 +11,7 @@
 <div align="center">
  
 💻 Specialized in TypeScript, C# and PHP <br>
-🚀 Over 2 years of experience in full-stack development <br>
+🚀 Over 3 years of experience in full-stack development <br>
 ✨Avid learner and technology enthusiast
 
 
