@@ -56,9 +56,6 @@
 <br>
 <div align="center">
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=halill7&theme=react&border_radius=10" alt="streak stats"/>
-  <img width="390" src="https://github-readme-stats-eight-rho.vercel.app/api?username=halill7&show_icons=true&theme=react&count_private=true&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width="325" align="center" src="https://github-readme-stats-eight-rho.vercel.app/api/top-langs/?username=halill7&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&count_private=true" alt="top langs" />
 </div>
 
 
